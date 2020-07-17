@@ -1,3 +1,5 @@
+/* kijk eens goed hoe braaf ik niet op CSS heb gelet */
+
 .App {
   text-align: center;
 }
@@ -35,4 +37,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+ul :last-child {
+  display: none;
 }
